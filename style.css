@@ -5,7 +5,7 @@ header {
 }
 
 #main-nav {
-	float: right;	
+	float: right;
 }
 
 #main-nav ul li {
@@ -36,7 +36,7 @@ a.link-style:hover {
 
 #main-body {
 	width: 550px;
-	margin: 0 auto 393px auto;
+	margin: 112px auto 393px auto;
 }
 
 .logoimg {
